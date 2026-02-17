@@ -1,0 +1,45 @@
+Basic Instructions:
+If you need further support please don’t hesitate to e-mail us at support @ pdf - flip . com
+
+------------------------------------------------------------------------------------------------------------
+
+1. Extract the content of the downloaded PDF Flip .zip file.
+
+2. Connect to your website files management system (FTP for example), 
+create a new folder on your website structure and upload the content of the PDF Flip .zip file in that folder.
+
+3. Overwrite / Replace the existing "PDF.pdf" file with your own file.
+If your pdf file have a different name please rename it to PDF.pdf and make sure it overwrite our demo file.
+
+Test it on your browser (http://www.yousitename.com/FolderName/index.html)
+
+
+--------------------------------
+
+Edit Table of contents:
+
+- open toc.js file with any text editor 
+- you can edit / add / remove table of contents entries 
+
+--------------------------------
+
+Replace background image:
+- overwrite pflip/background.jpg image with your own image
+
+--------------------------------
+
+Other settings:
+
+- open settings.js file with any text editor
+- the variables are self-explenatory and commented
+
+--------------------------------
+
+Bookshelf:
+
+- the bookshelf entries can be edited trough the bookshelf.html file
+- edit the .html file and change the paths for the thumbs images and paths to the .PDF files.
+
+
+
+If you need further support please don’t hesitate to e-mail us at support @ pdf - flip . com
